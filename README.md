@@ -4,6 +4,10 @@
 - 🧑‍💻 Look at [my CV](https://chiliec.github.io/cv/)
 - 📫 Reach me out in [Telegram](https://t.me/babin) and [LinkedIn](https://www.linkedin.com/in/vovababin/)
 
+### 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=chiliec&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=chiliec&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
 <!--
 **chiliec/chiliec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
