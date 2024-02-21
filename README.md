@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: I'm an **iOS developer** (Swift) and also I have dabbled in various programming languages like Kotlin, Dart, Clojure, Scala, Python, Go, Java, PHP, TypeScript, Ruby etc. I have had the opportunity to work on both backend and frontend development, as well as gain experience in DevOps. Additionally, I am well-versed in telegram bots and web3 technologies
+- 🧑‍💻 Look at [my CV](https://chiliec.github.io/cv/)
+- 📫 Reach me out in [telegram](https://t.me/babin)
+
 <!--
 **chiliec/chiliec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
