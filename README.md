@@ -1,7 +1,7 @@
 ## Hi, I’m Vladimir 👋
 **iOS Engineer • Full-Stack Explorer • Web3 Enthusiast**
 
-I’m a **senior iOS developer (Swift / SwiftUI)** with a strong background in **mobile architecture, performance, and product thinking**.
+I’m a **senior iOS developer** with a strong background in **architecture, performance, and product thinking**.
 Over the years, I’ve also worked across **backend, frontend, DevOps**, and **Web3**, which helps me see products as complete systems — not just apps.
 
 ### 🚀 What I do
@@ -23,7 +23,6 @@ Over the years, I’ve also worked across **backend, frontend, DevOps**, and **W
 
 ### 📄 More about me
 - 🧑‍💻 **CV:** https://chiliec.github.io/cv/
-- 💬 I value **clear communication**, **no micromanagement**, and **strong engineering culture**
 - ⚡ Fun fact: I enjoy learning new languages *just enough* to use them in production
 
 ### 📫 Let’s connect
